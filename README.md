@@ -8,18 +8,26 @@ AIFFEL_quest_rs
 .		.
 .		.
 .		.
-│   └── Quest08
+│   └── Quest05
 │       ├── .ipynb
 │       └── README.md
-.
-.
-.
-└── Exploration
-    ├── Ex01
-    .
-    .
-    .
-    └── Ex07
-        ├── .ipynb
-        └── README.md
+├── GoingDeeper
+│   ├── Deep01
+.		.
+.		.
+.		.
+│   └── Deep09
+│       ├── .ipynb
+│       └── README.md
+├── Exploration
+│   ├── Ex01
+│   .
+│   .
+│   .
+│   └── Ex09
+│       ├── .ipynb
+│       └── README.md
+├─  README.md
+└── README_template.md
+
 ```
