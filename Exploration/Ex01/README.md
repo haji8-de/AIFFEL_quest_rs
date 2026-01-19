@@ -8,6 +8,9 @@
 - [X]  **1. 주어진 문제를 해결하는 완성된 코드가 제출되었나요?**
     - 문제에서 요구하는 최종 결과물이 첨부되었는지 확인
         - 중요! 해당 조건을 만족하는 부분을 캡쳐해 근거로 첨부
+        - Bounding Box와 Face Landmark를 제거하고 sticker만 남긴 최종 산출물이 첨부되었습니다. 
+          <img width="1143" height="738" alt="image" src="https://github.com/user-attachments/assets/aeabe859-0901-465f-923e-1c5fc2e3e5e4" />
+
     
 - [X]  **2. 전체 코드에서 가장 핵심적이거나 가장 복잡하고 이해하기 어려운 부분에 작성된 
 주석 또는 doc string을 보고 해당 코드가 잘 이해되었나요?**
@@ -16,7 +19,8 @@
     - 해당 코드의 기능, 존재 이유, 작동 원리 등을 기술했는지 확인
     - 주석을 보고 코드 이해가 잘 되었는지 확인
         - 중요! 잘 작성되었다고 생각되는 부분을 캡쳐해 근거로 첨부
-        - <img width="522" height="474" alt="image" src="https://github.com/user-attachments/assets/174d1d93-0c00-4763-903c-bdbff32eeebd" />
+        - dlib_rect를 뽑는 부분, landmark circle을 찍는 부분 등 대부분의 코드에서 주석이 잘 달려 있습니다.  
+          <img width="522" height="474" alt="image" src="https://github.com/user-attachments/assets/174d1d93-0c00-4763-903c-bdbff32eeebd" />
 
         
 - [X]  **3. 에러가 난 부분을 디버깅하여 문제를 해결한 기록을 남겼거나
@@ -25,7 +29,8 @@
     - 프로젝트 평가 기준에 더해 추가적으로 수행한 나만의 시도, 
     실험이 기록되어 있는지 확인
         - 중요! 잘 작성되었다고 생각되는 부분을 캡쳐해 근거로 첨부
-        - <img width="792" height="433" alt="스크린샷 2026-01-19 오전 10 45 07" src="https://github.com/user-attachments/assets/825a533f-6ce1-4377-952a-f5c3ee7127f5" />
+        - 안경을 썼을 때와 안 썼을 때, 스티커 크기를 조절해야 할 때, landmark point를 서로 구분해야 할 때 등 여러 상황에 대한 고려가 담겨 있습니다. 
+          <img width="792" height="433" alt="스크린샷 2026-01-19 오전 10 45 07" src="https://github.com/user-attachments/assets/825a533f-6ce1-4377-952a-f5c3ee7127f5" />
 
         
 - [ ]  **4. 회고를 잘 작성했나요?**
