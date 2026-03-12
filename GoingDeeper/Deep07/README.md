@@ -33,6 +33,7 @@
 # 회고(참고 링크 및 코드 개선)
 ```
 # 문제점을 파악하고 해결하는 과정을 통하여 모델의 설계와 수정을 반복한 점에서 모델에 대한 이해도가 매우 높아진 것으로 파악되어 모델을 구성하는 프로세스를 배울만 하였음
-# <img width="770" height="466" alt="image" src="https://github.com/user-attachments/assets/80ca19d3-d609-4a5e-97d5-2d4fc53dcdee" />
+
 
 ```
+ <img width="770" height="466" alt="image" src="https://github.com/user-attachments/assets/80ca19d3-d609-4a5e-97d5-2d4fc53dcdee" />
